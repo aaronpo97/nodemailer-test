@@ -1,0 +1,17 @@
+{
+	"name": "nodemailer-test",
+	"version": "0.0.1",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"start": "node index.js"
+	},
+	"author": "Aaron Po",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"nodemailer": "^6.5.0"
+	},
+	"keywords": [],
+	"description": ""
+}
